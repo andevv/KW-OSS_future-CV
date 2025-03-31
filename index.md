@@ -3,7 +3,9 @@
 ![profile](./images/Daehyun%20An_profile.jpeg)
 
 ## 안대현
-도전하는 개발자 안대현입니다.
+도전하는 개발자 안대현입니다.  
+1. [github link](https://github.com/andevv)
+2. [velog link](https://velog.io/@andev/posts)
 
 <br>
 
@@ -51,7 +53,7 @@ Apple Developer Academy@POSTECH 5기
 
 ### Projects
 
->#### 2026.02. ~ 08.
+>#### 2026. 02. ~ 08.
 도슨트 앱 artvoice (광운대학교 IDEA Lab.)  
 *Backend Developer*, *iOS Developer*  
 FastAPI, Docker, Swift, MySQL
