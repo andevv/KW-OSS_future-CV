@@ -1,6 +1,6 @@
 # 가상 이력서
 
-<img src="./images/Daehyun An_profile.jpeg" alt="profile">
+![profile](./images/Daehyun%20An_profile.jpeg)
 
 ## 안대현
 도전하는 개발자 안대현입니다.
