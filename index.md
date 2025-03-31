@@ -1,6 +1,6 @@
 # 가상 이력서
 
-![profile](/images/Daehyun%20An_profile.jpeg)
+![profile](https://github.com/andevv/KW-OSS_future-CV/blob/main/images/Daehyun%20An_profile.jpeg)
 ## 안대현
 도전하는 개발자 안대현입니다.
 
